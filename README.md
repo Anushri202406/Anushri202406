@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Anushri Saren</h1>
+<h1 align="center">Hi 👋, I'm Anushri Saren</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I'm currently learning : SQL,Python and data visualization basics.
@@ -19,7 +19,6 @@
 - Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
 - Statistical Foundation
-- Data Storytelling
 
 
 ## 📊 GitHub Stats & Trophies
@@ -40,12 +39,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
 
 </p>
 
@@ -72,11 +65,11 @@
 </p>
 
 ## 💬 Quote
-> Hi Coders,,,
+> Hii Coders,,,
 
 <p align="center"><a href="https://www.buymeacoffee.com/Anushri202406" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
