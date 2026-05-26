@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Anushri Saren</h1>
+<h3 align="center">Computer Science Student</h3>
 
-<!--
-**Anushri202406/Anushri202406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Anushri202406">
+    <img src="https://komarev.com/ghpvc/?username=Anushri202406&label=Profile%20views&color=00FFFF&style=flat-square" alt="Anushri202406's profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<img src="none" alt="Banner" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+- I'm currently learning : SQL,Python and data visualization basics.
+- I'm looking to collaborate on: Beginner-friendly data cleaning projects.
+- I'm looking for help with: Mastering advanced Excel formulas and Tablue.
+
+
+## 🧠 My Focus Areas
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Statistical Foundation
+- Data Storytelling
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Anushri202406">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anushri202406&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Anushri202406's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Anushri202406&theme=radical&hide_border=true&cache_seconds=86400" alt="Anushri202406's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Anushri202406&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anushri Saren's GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anushri202406">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anushri202406&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/anushri-saren-b71aa4273/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:anushrisaren07@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+## 💬 Quote
+> Hi Coders,,,
+
+<p align="center"><a href="https://www.buymeacoffee.com/Anushri202406" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="none" alt="Bottom Line" width="100%" />
+</div>
+
